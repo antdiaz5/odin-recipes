@@ -1,0 +1,22 @@
+.btn {
+    padding: 10px;
+    color: white;
+}
+
+.btn-1 { background-color: lightblue;}
+.btn-2 { background-color: lightgreen;}
+.btn-3 { background-color: lightpink;}
+
+
+body {
+    background-color: lightyellow;
+    color: coral;
+}
+
+h1.large-header {
+    font-size: 300%;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}

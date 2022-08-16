@@ -20,3 +20,8 @@ h1.large-header {
 * {
     font-family: 'Times New Roman', Times, serif;
 }
+
+.heading,
+.recipe-title{
+    text-align: center;
+}
